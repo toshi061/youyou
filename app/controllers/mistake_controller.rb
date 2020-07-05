@@ -1,0 +1,2 @@
+class MistakeController < ApplicationController
+end
